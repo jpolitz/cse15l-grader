@@ -1,4 +1,4 @@
 FROM prairielearn/centos7-python
 
-RUN yum install git
+RUN yum -y install git
 
